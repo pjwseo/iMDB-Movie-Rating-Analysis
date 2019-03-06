@@ -2,7 +2,7 @@
 ## By Paul Seo
 
 ### Purpose:
-This being the first project since completing Udacity's Data Analyst Nanodegree program, I decided to pick one of the earlier projects in the program, and use as many techniques I learned as possible from data assessment and wrangling to visualization and conclusion. 
+This being the first project since completing Udacity's Data Analyst Nanodegree program, I decided to pick one of the earlier projects in the program and improve it by using all techniques I learned through the program.
 
 ### Dataset:
 This dataset was originally provided on Kaggle, which was obtained by Udacity to be used in their course as training material. Due to DMCA takedown, this dataset has been replaced with TMDB dataset and is no longer available. The iMDB dataset contains 10866 movies and 21 variables for each of these movies. 
