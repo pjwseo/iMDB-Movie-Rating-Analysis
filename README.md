@@ -1,4 +1,4 @@
-# iMDB Movie Rating Analysis
+# Key Factors in predicting iMDB Movie Scores
 ## By Paul Seo
 
 ### Purpose:
